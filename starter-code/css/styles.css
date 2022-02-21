@@ -54,6 +54,7 @@ h1 {
     text-transform: uppercase;
 /* White */
     color: #FFFFFF;
+    z-index: 1;
 }
 
 span {
