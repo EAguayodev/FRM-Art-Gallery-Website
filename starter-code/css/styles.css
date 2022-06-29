@@ -1051,7 +1051,6 @@ footer h3 {
 footer p {
     position: absolute;
     height: 104px;
-    top: calc(50% - 104px/2 + 10px);
     font-family: Outfit;
     font-style: normal;
     font-weight: 300;
