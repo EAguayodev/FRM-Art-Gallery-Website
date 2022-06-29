@@ -1008,9 +1008,6 @@ span {
 .group__5 h2 {
     position: absolute;
     height: 90px;
-    left: 0%;
-    right: 0%;
-    top: calc(50% - 90px/2 - 54px);
     font-family: Big Shoulders Display;
     font-style: normal;
     font-weight: 900;
@@ -1018,19 +1015,18 @@ span {
     line-height: 45px;
 /* or 90% */
     text-transform: uppercase;
+    margin: 0.5rem 0 0 2rem;
 }
 
 .group__5 p {
     position: absolute;
     height: 112px;
-    left: -10%;
-    right: -1%;
-    top: calc(41% - 112px/2 + 57px);
     font-family: Outfit;
     font-style: normal;
     font-weight: 300;
     font-size: 18px;
     line-height: 28px;
+    margin: 2rem 1rem 0 2rem;
 }
 
 footer {
