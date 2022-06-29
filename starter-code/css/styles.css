@@ -878,11 +878,11 @@ header {
 .left h1 {
     display: block;
     color: var(--almost-black);
-    margin: 2rem 0 0 1rem;
+    margin: 0 0 0 1rem;
     height: 90px;
     left: 0%;
     right: 0%;
-    top: calc(50% - 90px/2 - 66.5px);
+    top: calc(49% - 90px/2 - 66.5px);
     font-family: Big Shoulders Display;
     font-style: normal;
     font-weight: 900;
@@ -899,9 +899,9 @@ span {
 .right__white p {
     position: absolute;
     height: 112px;
-    left: 3.27%;
-    right: 4.27%;
-    top: calc(39% - 112px/2 + 155px);
+    left: 2.27%;
+    right: 16.27%;
+    top: calc(41% - 112px/2 + 155px);
     font-family: Outfit;
     font-style: normal;
     font-weight: 300;
