@@ -1001,8 +1001,8 @@ span {
 .group__5 {
     width: 343px;
     height: 293px;
-    left: 2px;
-    top: 262px;
+    left: 1px;
+    top: 225px;
 }
 
 .group__5 h2 {
@@ -1023,9 +1023,9 @@ span {
 .group__5 p {
     position: absolute;
     height: 112px;
-    left: 0%;
-    right: 0%;
-    top: calc(50% - 112px/2 + 57px);
+    left: -10%;
+    right: -1%;
+    top: calc(41% - 112px/2 + 57px);
     font-family: Outfit;
     font-style: normal;
     font-weight: 300;
