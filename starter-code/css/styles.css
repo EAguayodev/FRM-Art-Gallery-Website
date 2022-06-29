@@ -1051,14 +1051,13 @@ footer h3 {
 footer p {
     position: absolute;
     height: 104px;
-    left: -88%;
-    right: -172%;
     top: calc(50% - 104px/2 + 10px);
     font-family: Outfit;
     font-style: normal;
     font-weight: 300;
     font-size: 16px;
     line-height: 26px;
+    margin: 6rem 11.5rem 0 5rem;
 }
 
 footer .icons__social {
