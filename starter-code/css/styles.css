@@ -314,6 +314,7 @@ footer .icons__social {
 
 .social {
     color: var(--white);
+    font-size: 20px;
 }
 
 .social:hover {
