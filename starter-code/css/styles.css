@@ -320,7 +320,7 @@ footer .icons__social {
    margin: 0.5rem 0 0 1rem;
 }
 
-footer .social__facebook:hover {
+/*  footer .social__facebook:hover {
     background-color: var(--gold);
     color: var(--gold);
     
@@ -334,7 +334,7 @@ footer .social__instagram:hover {
 footer .social__twitter:hover {
     background-color: var(--gold);
     color: var(--gold);
-}
+}*/
 
 /* location styling page start */
 header {
