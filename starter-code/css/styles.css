@@ -313,7 +313,7 @@ footer .icons__social {
 }
 
 .social {
-    background-color: var(--almost-black);
+    color: var(--white);
 }
 
 .social:hover {
