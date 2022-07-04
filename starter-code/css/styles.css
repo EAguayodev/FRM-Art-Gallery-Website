@@ -312,6 +312,10 @@ footer .icons__social {
     top: 25px;  
 }
 
+.social {
+    background-color: var(--almost-black);
+}
+
 .social:hover {
     color: var(--gold);
 }
