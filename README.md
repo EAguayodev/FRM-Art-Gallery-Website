@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github](https://your-solution-url.com)
+- Solution URL: [github](https://github.com/EricAguayo90/FRM-Art-Gallery-Website)
 - Live Site URL: [vercel](https://frm-art-gallery-website.vercel.app/)
 
 ## My process
