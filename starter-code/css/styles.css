@@ -860,6 +860,13 @@ header {
 
 /* responsive mobile styling */
 @media (max-width: 767px) {
+     html, body {
+        overflow-x: hidden;
+}
+    body {
+        position: relative
+}
+    
 .middle__img--background {
     background-image: url(../assets/mobile/image-hero.jpg);
     background-repeat: no-repeat;
