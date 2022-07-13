@@ -949,7 +949,7 @@ span {
 .grid__1 h2 {
     position: absolute;
     height: 90px;
-    left: -30%;
+    left: -32%;
     right: 0%;
     top: calc(50% - 90px/2 - 66.5px);
     font-family: Big Shoulders Display;
@@ -964,7 +964,7 @@ span {
 .grid__1 p {
     position: absolute;
     height: 112px;
-    left: -30%;
+    left: -32%;
     right: 0%;
     top: calc(50% - 112px/2 + 55.5px);
     font-family: Outfit;
@@ -992,7 +992,7 @@ span {
     position: absolute;
     width: 343px;
     height: 480px;
-    left: 22px;
+    left: 17px;
     top: 1350px;
 }
 
@@ -1003,7 +1003,7 @@ span {
     position: absolute;
     width: 343px;
     height: 200px;
-    left: 21px;
+    left: 17px;
     top: 1846px;
 }
 
@@ -1029,13 +1029,13 @@ span {
 
 .group__5 p {
     position: absolute;
-    height: 112px;
+    height: 84px;
     font-family: Outfit;
     font-style: normal;
     font-weight: 300;
     font-size: 18px;
     line-height: 28px;
-    margin: 2rem 1rem 0 2rem;
+    margin: 2rem 0 0 2rem;
 }
 
 footer {
