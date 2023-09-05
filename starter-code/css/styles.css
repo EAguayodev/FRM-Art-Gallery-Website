@@ -1158,7 +1158,7 @@ header {
 
 .location__footer {
     position: absolute;
-    width: 100%;
+    width: 375px;
     height: 336px;
     left: 0;
     top: 1043px;    
