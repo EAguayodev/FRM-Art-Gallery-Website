@@ -1178,14 +1178,15 @@ header {
  .location__footer p {
      position: absolute;
      height: 104px;
-     left: -93%;
-     right: -150%;
-     top: calc(50% - 104px/2 + 10px);
      font-family: Outfit;
      font-style: normal;
      font-weight: 300;
      font-size: 16px;
      line-height: 26px;
+     left: -16%;
+     right: -150%;
+     top: calc(33% - 104px/2 + 10px);
+     width: 311px;
  }
 
  .location__footer .icons__social_location {
