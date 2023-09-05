@@ -249,8 +249,8 @@ span {
 /* styling for footer section home page */
 footer {
     position: absolute;
-    width: 1350px;
     height: 244px;
+    width: 100%;
     left: 0px;
     top: 2311px;
     background-color: var(--almost-black);
