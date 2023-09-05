@@ -861,7 +861,6 @@ header {
 
 /* responsive mobile styling */
 @media (max-width: 767px) {
-    
 .middle__img--background {
     background-image: url(../assets/mobile/image-hero.jpg);
     background-repeat: no-repeat;
@@ -890,15 +889,14 @@ header {
     display: block;
     color: var(--almost-black);
     margin: 0 0 0 1rem;
-    height: 90px;
     left: 0%;
     right: 0%;
     top: calc(49% - 90px/2 - 66.5px);
     font-family: Big Shoulders Display;
     font-style: normal;
     font-weight: 900;
-    font-size: 50px;
-    line-height: 45px;
+    font-size: 60px;
+    line-height: 55px;
 /* or 90% */
     text-transform: uppercase;
 }
@@ -912,7 +910,7 @@ span {
     height: 112px;
     left: 2.27%;
     right: 16.27%;
-    top: calc(41% - 112px/2 + 155px);
+    top: calc(113% - 112px/2 + 155px);
     font-family: Outfit;
     font-style: normal;
     font-weight: 300;
@@ -961,8 +959,8 @@ span {
     font-weight: 900;
     font-size: 50px;
     line-height: 45px;
-/* or 90% */
     text-transform: uppercase;
+    width: 343px;
 }
 
 .grid__1 p {
@@ -976,6 +974,7 @@ span {
     font-weight: 300;
     font-size: 18px;
     line-height: 28px;
+    width: 343px;
 }
 
 .grid__2 {
@@ -1029,6 +1028,7 @@ span {
 /* or 90% */
     text-transform: uppercase;
     margin: 0.5rem 0 0 2rem;
+    width: 295px;
 }
 
 .group__5 p {
@@ -1040,6 +1040,7 @@ span {
     font-size: 18px;
     line-height: 28px;
     margin: 2rem 0 0 2rem;
+    width: 295px;
 }
 
 footer {
@@ -1066,6 +1067,7 @@ footer p {
     font-size: 16px;
     line-height: 26px;
     margin: 6rem 11.5rem 0 5rem;
+    width: 311px;
 }
 
 footer .icons__social {
