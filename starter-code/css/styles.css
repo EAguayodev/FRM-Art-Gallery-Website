@@ -1,7 +1,5 @@
 * {
     box-sizing: border-box;
-    margin: 0;
-    padding: 0;
     outline: 2px solid red;
 }
 
@@ -29,8 +27,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
-    left: 35.29%;
-    right: 22.35%;
+    left: 15%;
     top: 0%;
     bottom: 0%;
     width: 540px;
@@ -44,16 +41,12 @@ h1 {
     left: 36.67%;
     right: -36.89%;
     top: calc(50% - 176px/2 - 122.5px);
-
-/* Heading (XL) */
     font-family: Big Shoulders Display; 
     font-style: normal;  
     font-weight: 900; 
     font-size: 96px; 
     line-height: 88px;
-/* or 92% */
     text-transform: uppercase;
-/* White */
     color: #FFFFFF;
     z-index: 1;
 }
@@ -63,15 +56,12 @@ span {
     left: 12.94%;
     right: 46.75%;
     top: calc(50% - 176px/2 - 122px);
-/* Heading (XL) */
     font-family: Big Shoulders Display;
     font-style: normal;
     font-weight: 900;
     font-size: 96px;
     line-height: 88px;
-/* or 92% */
     text-transform: uppercase;
-/* Almost Black */
     color: #151515;
 }
 
@@ -80,7 +70,7 @@ span {
     background-color: var(--almost-black);
     color: #fff;
     cursor: pointer;
-    width: 260px;
+    width: 204px;
     height: 72px;
     text-decoration: none;
     text-transform: uppercase;
@@ -92,7 +82,7 @@ span {
     padding: 28px;
     position: absolute;
     line-height: 24px;
-    left: 930px;
+    left: 57.5rem;
     top: 414px;
 }
 
@@ -109,7 +99,7 @@ span {
     left: 1130px;
     top: 414px; 
     padding: 20px;
-    margin: -1.75rem 0 0 4.6rem;
+    margin: -1.75rem 0 0 2.4rem;
 }
 
 .arrow__right:hover {
@@ -120,20 +110,15 @@ span {
     font-weight: 300;
     font-family: 'Outfit', sans-serif;
     color: var(--dark-grey);
-    line-height: 32px;
-    font-size: 22px;
     position: absolute;
-    height: 160px;
-    left: 72.35%;
-    right: 0%;
-    top: calc(50% - 160px/2 - 130px);
-    margin-top: 5rem;
-/* Body (M) */
+    left: 57.5rem;
+    top: 12rem;
     font-family: Outfit;
     font-style: normal;
     font-weight: normal;
     font-size: 22px;
     line-height: 32px;
+    width: 350px;
 }
 
 .hero {
@@ -155,23 +140,17 @@ span {
     align-items: center;
 }
 
-/* grid img sizing */
-
 .grid--img__1 {
     max-width: 100%;
-    
 }
 
 .grid--img__2 {
    max-width: 100%;
-   
 }
 
 .grid--img__3 {
     max-width: 100%; 
-       
 }
-
 
 /* grid styling */
 .grid {
@@ -235,10 +214,9 @@ span {
     font-family: 'Outfit', sans-serif;
     font-size: 22px;
     font-weight: 400;
-    margin: 3rem 6rem 0 7rem;
+    margin: 3rem 0 0 7rem;
     line-height: 32px;
     width: 350px;
-    height: 128px;
 }
 
 .group__5 {
@@ -260,27 +238,27 @@ span {
 
 .group__5 p {
     color: #fff;
-    margin: 3rem 4.5rem 0 4rem;
+    margin: 3rem 0 0 4rem;
     line-height: 25px;
     font-family: 'Outfit', sans-serif;
+    font-style: normal;
     font-weight: 300;
+    font-size: 22px;
 }   
 
 /* styling for footer section home page */
 footer {
-    /* Mask */
     position: absolute;
     width: 1350px;
     height: 244px;
     left: 0px;
     top: 2311px;
-    /* Almost Black */
-    background: #151515;
+    background-color: var(--almost-black);
 }
 
 footer h3 {
     height: 58px;
-    width: 159.57235717773438px;
+    width: 159.572px;
     font-size: 30px;
     color: var(--white);
     position: absolute;
@@ -295,8 +273,11 @@ footer p {
     font-size: 22px;
     font-weight: 100;
     font-family: 'Outfit', sans-serif;
-    margin: 3rem 35rem 0 23rem;
+    position: relative;
+    left: -18rem;
+    top: 3rem;
     line-height: 38px;
+    width: 430px;
 }
 
 footer ul {
