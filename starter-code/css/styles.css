@@ -925,6 +925,8 @@ span {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    width: 375px;
+    height: 240px;
 }
 
 .row {
