@@ -1093,14 +1093,13 @@ header {
     font-weight: 900;
     font-size: 50px;
     line-height: 45px;
-/* identical to box height, or 90% */
     text-transform: uppercase;
 }
 
 .container__right h3 {
     position: absolute;
     height: 32px;
-    left: -170%;
+    left: -161%;
     right: 0%;
     top: calc(64% - 32px/2 - 132px);
     font-family: Big Shoulders Display;
@@ -1113,7 +1112,7 @@ header {
 .container__right p {
     position: absolute;
     height: 140px;
-    left: -170%;
+    left: -160%;
     right: -90%;
     top: calc(70% - 140px/2 + 78px);
     font-family: Outfit;
@@ -1121,14 +1120,15 @@ header {
     font-weight: 300;
     font-size: 18px;
     line-height: 28px;
+    width: 311px;
 }
 
 .container__right ul {
     position: absolute;
     height: 84px;
-    left: -170%;
+    left: -202%;
     right: 0%;
-    top: calc(66% - 84px/2 - 54px);
+    top: calc(64% - 84px/2 - 54px);
     font-family: Outfit;
     font-style: normal;
     font-weight: 300;
@@ -1148,7 +1148,7 @@ header {
     position: absolute;
     left: 5%;
     right: 64.61%;
-    top: 20%;
+    top: 8%;
     bottom: 83.33%;
  }
 
@@ -1162,7 +1162,7 @@ header {
      line-height: 26px;
      left: -16%;
      right: -150%;
-     top: calc(33% - 104px/2 + 10px);
+     top: calc(25% - 104px/2 + 10px);
      width: 311px;
  }
 
