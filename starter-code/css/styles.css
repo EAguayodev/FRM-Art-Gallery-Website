@@ -886,7 +886,7 @@ span {
     height: 112px;
     left: 5.27%;
     right: 16.27%;
-    top: calc(113% - 112px/2 + 155px);
+    top: 6rem;
     font-family: Outfit;
     font-style: normal;
     font-weight: 300;
